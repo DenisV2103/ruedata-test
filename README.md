@@ -1,6 +1,6 @@
 ﻿# Ruedata Tets
 
-This Proyect is a transaction recorder Aplication using React.JS
+This project allows you to enter and create lists of pets and upload them to a CRUD API using React.JS
 
 ### Functionalities:
 1. Create Pets.
