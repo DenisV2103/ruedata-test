@@ -9,7 +9,7 @@ This Proyect is a transaction recorder Aplication using React.JS
 
 ### Technologies used:
 1. ReactJs.
-2. Mockapi.
+2. CRUD.
 3. Netlify.
 
 ### ¿How to run?
