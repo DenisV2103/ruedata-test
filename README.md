@@ -1,6 +1,8 @@
 ﻿# Ruedata Tets
  ## Ejercicio 2 - Algoritmo :
  The JavaScript file FindPalindrome can be found in the root
+ ### ¿How to run?
+    node FindPalindrome.js
  
  ## Ejercicio 1 - Consumo de APIs :
  
