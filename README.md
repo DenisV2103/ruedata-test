@@ -1,5 +1,7 @@
 ﻿# Ruedata Tets
-
+ 
+ ## Ejercicio 1 - Consumo de APIs :
+ 
 This project allows you to enter and create lists of pets and upload them to a CRUD API using React.JS
 
 ### Functionalities:
@@ -16,4 +18,6 @@ This project allows you to enter and create lists of pets and upload them to a C
     npm start
 ### Can also be run with deploy.
     https://glittery-pithivier-f96d88.netlify.app
+    
+## Ejercicio 2 - Algoritmo :
     
